@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "pEM11wNVdDLV6QLAAIni4ckfoCe7NCnvJTM8pTZeq3r7ufxDd+0qQrPZs1S5JBJ8oPfqFY7X0ly0SJNeoe2eGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\WANGLESP\\source\\repos\\OpenAiPlayground\\GPT3 Digital Assistant\\GPT3 Digital Assistant.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\WANGLESP\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
+    "C:\\Users\\WANGLESP\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\WANGLESP\\.nuget\\packages\\openai\\1.2.0\\openai.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}

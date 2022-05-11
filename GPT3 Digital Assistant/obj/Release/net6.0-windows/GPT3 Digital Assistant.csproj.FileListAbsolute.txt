@@ -1,0 +1,21 @@
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\bin\Release\net6.0-windows\GPT3 Digital Assistant.exe
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\bin\Release\net6.0-windows\GPT3 Digital Assistant.deps.json
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\bin\Release\net6.0-windows\GPT3 Digital Assistant.runtimeconfig.json
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\bin\Release\net6.0-windows\GPT3 Digital Assistant.dll
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\bin\Release\net6.0-windows\GPT3 Digital Assistant.pdb
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\bin\Release\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\bin\Release\net6.0-windows\Newtonsoft.Json.dll
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\bin\Release\net6.0-windows\OpenAI_API.dll
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\GPT3 Digital Assistant.csproj.AssemblyReference.cache
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\GPT3_Digital_Assistant.MainMenuForm.resources
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\GPT3 Digital Assistant.csproj.GenerateResource.cache
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\GPT3 Digital Assistant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\GPT3 Digital Assistant.AssemblyInfoInputs.cache
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\GPT3 Digital Assistant.AssemblyInfo.cs
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\GPT3 Digital Assistant.csproj.CoreCompileInputs.cache
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\GPT3 Digital Assistant.csproj.CopyComplete
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\GPT3 Digital Assistant.dll
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\refint\GPT3 Digital Assistant.dll
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\GPT3 Digital Assistant.pdb
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\GPT3 Digital Assistant.genruntimeconfig.cache
+C:\Users\WANGLESP\source\repos\GPT3 Digital Assistant\GPT3 Digital Assistant\obj\Release\net6.0-windows\ref\GPT3 Digital Assistant.dll
